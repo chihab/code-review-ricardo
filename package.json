@@ -1,0 +1,20 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chihab/code-review-ricardo.git"
+  },
+  "keywords": [],
+  "author": "Chihab Otmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chihab/code-review-ricardo/issues"
+  },
+  "homepage": "https://github.com/chihab/code-review-ricardo#readme"
+}
